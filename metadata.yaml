@@ -1,5 +1,5 @@
 _repo: George-Silverman-s-Explanation_810
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -27,5 +27,6 @@ subjects:
 - !lcsh 'Orphans -- Fiction'
 - !lcsh 'Clergy -- England -- Fiction'
 - !lcc 'PR'
+- GITenberg
 title: George Silverman's Explanation
 url: http://www.gutenberg.org/ebooks/810
